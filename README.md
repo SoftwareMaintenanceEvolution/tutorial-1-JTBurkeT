@@ -7,7 +7,7 @@ practices and how to work with legacy systems.
 - **Fun fact**: I love playing the chess in my free time.
 - **Course expectations**: To gain hands-on experience in
 maintaining and evolving software.
-Screenshot 2024-06-24 001906.png
+![My Image](/Screenshot%202024-06-24%20001906.png)
 You can view my personalized GitHub profile
 
 https://github.com/JTBurkeT
